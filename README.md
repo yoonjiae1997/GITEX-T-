@@ -12,4 +12,8 @@ clone 명령으로 github의 공개저장소 복제하기
 
 ---
 
+fork 저장소의 sync 확인용 업데이트
+
+---
+
 EZEN it ac AI service 5th
